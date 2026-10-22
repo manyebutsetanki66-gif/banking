@@ -1,0 +1,16 @@
+# Compiled Java class files
+bin/
+*.class
+
+# Dependency JARs (see .vscode/settings.json -> lib/**/*.jar)
+lib/*.jar
+
+# IDE metadata (keep .vscode/settings.json - it defines src/bin/lib layout)
+.idea/
+*.iml
+.vscode/*
+!.vscode/settings.json
+
+# OS files
+Thumbs.db
+.DS_Store
